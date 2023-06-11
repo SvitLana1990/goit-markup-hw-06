@@ -793,8 +793,7 @@ img {
     transition: border-color var(--transition);
 }
 
-.form-textarea:focus,
-.form-textarea:hover {
+.form-textarea:focus {
     border-color: var(--blue-text-color);
 }
 
